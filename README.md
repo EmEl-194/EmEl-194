@@ -15,9 +15,9 @@
 ## 🚀 About Me 
 I'm a data analyst who uses data to improve business operations, health systems, and service delivery - through clean analytics, clear storytelling, and practical dashboards. 
 
-My focus is on helping businesses make sense of their data by building interactive dashboards.
+My focus is on helping businesses make sense of their data by transforming data and building interactive dashboards.
 
-When I'm not working with data, I enjoy travelling, playing board games and cinema-hopping. I love watching messy data get unravelled and turned into value for businesses.
+When I'm not working with data, I enjoy travelling, playing board games and cinema-hopping. 
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://github.com/EmEl-194)
