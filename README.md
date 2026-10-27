@@ -28,7 +28,7 @@ When I'm not working with data, I enjoy travelling, playing board games and cine
   Visualizes service use, demographics, and trends to support planning and resource.
 - **HR Performance & Attrition Analysis (SQL + Power BI):**  
   Identifies drivers of attrition and performance patterns to inform HR strategy.
-- Retail & Pharma Sales Insights (Excel + Tableau):**  
+- **Retail & Pharma Sales Insights (Excel + Tableau):**  
   Explores sales trends, product performance, and customer behaviour for commercial decision-making.
 
 ## 🌱 Currently Learning 
