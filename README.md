@@ -1,5 +1,4 @@
 ## Hi there, I'm Emmanuela 👋
-## Data Analyst & Public Health Researcher | Data Transformation | Dashboard Design | Evidence-Based Decision Support**
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
