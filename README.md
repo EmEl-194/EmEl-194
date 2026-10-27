@@ -10,6 +10,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/emmanuela-amoah-adjei/#:~:text=www.linkedin.com/in/emmanuela%2Damoah%2Dadjei"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:eamoahadjei@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="https://medium.com/@eamoahadjei">
+<img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-black?style=for-the-badge&logo=medium">
+  </a>
 </p>
 
 ## 🚀 About Me 
